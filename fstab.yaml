@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p155514-e1648817.adobeaemcloud.com/bin/franklin.delivery/iain-mag/pheonix/main"
+    url: "https://author-p155514-e1648817.adobeaemcloud.com/bin/franklin.delivery/rajshettyaz/training-test-rj/main"
     type: "markup"
     suffix: ".html"
