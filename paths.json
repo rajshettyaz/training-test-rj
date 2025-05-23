@@ -3,7 +3,7 @@
     "/content/testNewPage/:/",
     "/content/testNewPage/configuration:/.helix/config.json",
     "/content/testNewPage/metadata:/metadata.json",
-     "/content/testNewPage/redirects:/redirects.json"
+    "/content/testNewPage/redirects:/redirects.json"
   ],
   "includes": [
     "/content/testNewPage/"
